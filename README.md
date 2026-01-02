@@ -59,4 +59,4 @@ resources/views/
 ├── layouts/html.blade.php   # Base template
 ├── cards/                   # Card browser views
 ├── collections/             # Inventory views
-└── decks/                   # Builder and Export views://opensource.org/licenses/MIT).
+└── decks/                   # Builder and Export views
